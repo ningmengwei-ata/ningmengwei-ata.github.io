@@ -1,6 +1,19 @@
 # web编程期末项目
 
-[TOC]
+- [web编程期末项目](#web------)
+  * [Demo](#demo)
+  * [代码结构](#----)
+  * [功能实现](#----)
+    + [1.用户可注册登录网站，非注册用户不可登录查看数据及停用启用用户实现](#1--------------------------------)
+      - [前端实现](#----)
+      - [实现登陆操作（停用判断）](#------------)
+      - [angular代码](#angular--)
+      - [路由代码](#----)
+        * [1）基于dao实现](#1---dao--)
+        * [2）直接与mysql交互（async和await处理）](#2----mysql---async-await---)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Demo
 
