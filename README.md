@@ -884,7 +884,7 @@ logDAO.js
 
 页面效果
 
-![image-20210630012159003](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630012159003.png)
+![image-20210630012159003.png](https://i.loli.net/2021/06/30/Tyz6tUGge4dOX7p.png)
 
 
 
@@ -1307,7 +1307,7 @@ sql+=';';
 
 实现效果
 
-![image-20210630102219239](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630102219239.png)
+![image-20210630102219239.png](https://i.loli.net/2021/06/30/Up9YLyskqzCZQKw.png)
 
 ```javascript
 $scope.pie = function () {
@@ -1447,15 +1447,15 @@ router.get('/pie', function(request, response) {
 
 #### 词云图
 
-![image-20210630102247241](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630102247241.png)
+![image-20210630102247241.png](https://i.loli.net/2021/06/30/ZfwqR4SEQCxXhBc.png)
 
 #### 柱状图 
 
-![image-20210630102308553](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630102308553.png)
+![image-20210630102308553.png](https://i.loli.net/2021/06/30/Q4wAtTyifIGZMzm.png)
 
 #### 折线图
 
-![image-20210630102346488](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630102346488.png)
+![image-20210630102346488.png](https://i.loli.net/2021/06/30/erjIuKS1Znmy82H.png)
 
 ### 5.实现一个管理端界面，可以查看（查看用户的操作记录）和管理（停用启用）注册用户。
 
@@ -1641,7 +1641,7 @@ searchlog :function( callback) {
 
 添加分词框
 
-![image-20210630103242602](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630103242602.png)
+![image-20210630103242602.png](https://i.loli.net/2021/06/30/MOwQkymcAU6RnYV.png)
 
 #### 分词处理
 
@@ -1692,7 +1692,7 @@ mysql.query_noparam(fetchSql, function (err, result, fields) {
 
 存储成功
 
-<img src="/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630103817319.png" alt="image-20210630103817319" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/06/30/XLcm9hzH6FgGBuf.png" alt="image-20210630103817319.png" style="zoom:50%;" />
 
 #### 分词查询
 
@@ -1818,7 +1818,7 @@ query :function(sql,param, callback) {
 
 打分排序存储结果
 
-<img src="/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210629221804207.png" alt="image-20210629221804207" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/06/30/2XVD1GfHMKigPYN.png" alt="image-20210629221804207.png" style="zoom:50%;" />
 
 #### 后端查询语句
 
@@ -1864,7 +1864,7 @@ if(searchparam['sscore']!="undefined"){
 
 ### 3.cannot read property ** of undefined
 
-![image-20210618192433189](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210618192433189.png)
+![image-20210618192433189.png](https://i.loli.net/2021/06/30/i16N9yqUdzX2QEI.png)
 
 需要添加判断
 
@@ -1899,7 +1899,7 @@ flush privileges;
 
 没有手动配置前的结果
 
-![image-20210620121011477](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210620121011477.png)
+![image-20210620121011477.png](https://i.loli.net/2021/06/30/fckuRbMVByUKj5Z.png)
 
 手动配置后的结果
 
@@ -1909,7 +1909,7 @@ flush privileges;
 const regex = /[\t\s\r\n\d\w]|[\+\-\(\),\.。，,！？（）；你 我 他 她 一 把 及 的 是 和 又 在 了 #《》@、【】"'：:%-\/“”]/g;
 ```
 
-![image-20210630000251551](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630000251551.png)
+![image-20210630000251551.png](https://i.loli.net/2021/06/30/eU1ZMYVD2HvRAEL.png)
 
 ## 总结
 
