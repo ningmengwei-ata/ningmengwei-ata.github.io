@@ -208,7 +208,7 @@ final_project 2
 
 界面效果如下
 
-![image-20210630000647813](/Users/wangwenqing/Library/Application Support/typora-user-images/image-20210630000647813.png)
+![image-20210630000647813.png](https://i.loli.net/2021/06/30/3irRHJFw6YtIBC2.png)
 
 #### **前端实现**
 
